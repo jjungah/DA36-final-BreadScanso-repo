@@ -5,7 +5,9 @@
 
 ### • 과정 | PLAYDATA DA-36
 ### • 팀원 | 이예진(팀장), 강한결, 김정아, 조은비, 전민하, 심정석 
-![](static/readme_images/member_img.jpg)
+![](https://github.com/user-attachments/assets/ce4723e4-ab85-459a-b195-b219c122992d)
+
+
 ### • 프로젝트 기간 | 2025.01.16 ~ 03.14
 ### • 프로젝트 주제 | 이미지 인식 기반 베이커리 무인결제 및 매장 관리 시스템
 <br>
