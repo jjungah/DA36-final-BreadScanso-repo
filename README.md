@@ -1,5 +1,6 @@
 ## DA36 FINAL-PROJECT
-![](static/images/bread_im_text.png)
+[![](static/images/bread_im_text.png)](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/images/bread_im_text.png?raw=true)![image](https://github.com/user-attachments/assets/7fa6d2a9-6d3d-42d2-be71-8a687bce096d)
+
 
 ### • 과정 | PLAYDATA DA-36
 ### • 팀원 | 이예진(팀장), 강한결, 김정아, 조은비, 전민하, 심정석 
