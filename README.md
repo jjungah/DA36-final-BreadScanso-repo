@@ -1,5 +1,6 @@
 ## DA36 FINAL-PROJECT
-[![](static/images/bread_im_text.png)](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/images/bread_im_text.png?raw=true)![image](https://github.com/user-attachments/assets/7fa6d2a9-6d3d-42d2-be71-8a687bce096d)
+https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/images/bread_im_text.png?raw=true![image](https://github.com/user-attachments/assets/d694aab2-927f-4bb1-b435-0f06a5ecde99)
+
 
 
 ### • 과정 | PLAYDATA DA-36
