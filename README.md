@@ -12,9 +12,11 @@
 
 ### • 프로젝트 기간 | 2025.01.16 ~ 03.14
 ### • 프로젝트 주제 | 이미지 인식 기반 베이커리 무인결제 및 매장 관리 시스템
-<br>
-### • WEB repo | https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo
 
+
+### • WEB repo | https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo
+### • AI repo - 이미지 인식 | https://github.com/pladata-encore/DA36-final-ai-BreadScanso-repo
+### • AI repo - chatbot | https://github.com/pladata-encore/DA36-final-chatbot-BreadScanso-repo
 
 
 ## 프로젝트 전체 흐름
