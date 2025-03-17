@@ -5,7 +5,8 @@
 
 ### • 과정 | PLAYDATA DA-36
 ### • 팀원 | 이예진(팀장), 강한결, 김정아, 조은비, 전민하, 심정석 
-![image](https://github.com/user-attachments/assets/e33702b3-d657-48f4-9eda-632f59e22f90)
+<img width="1268" alt="image" src="https://github.com/user-attachments/assets/48825f94-a7f2-4bd1-88df-a08a210f359a" />
+
 
 
 
