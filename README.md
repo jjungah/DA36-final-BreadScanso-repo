@@ -1,11 +1,11 @@
 ## DA36 FINAL-PROJECT
-![](https://github.com/user-attachments/assets/d694aab2-927f-4bb1-b435-0f06a5ecde99)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/images/bread_im_text.png?raw=true)
 
 
 
 ### • 과정 | PLAYDATA DA-36
 ### • 팀원 | 이예진(팀장), 강한결, 김정아, 조은비, 전민하, 심정석 
-<img width="1268" alt="image" src="https://github.com/user-attachments/assets/48825f94-a7f2-4bd1-88df-a08a210f359a" />
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/member_img.jpg?raw=true)
 
 
 
@@ -27,93 +27,89 @@
 <br>
 
  ## 프로젝트 소개
-![](static/readme_images/Breadscanso_ppt.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_1.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_1.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_2.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_2.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_3.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_3.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_4.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_4.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_5.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_5.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_6.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_6.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_7.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_7.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_8.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_8.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_9.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_9.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_10.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_10.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_11.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_11.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_12.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_12.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_13.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_13.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_14.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_14.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_15.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_15.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_16.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_16.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_17.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_17.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_18.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_18.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_19.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_19.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_20.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_20.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_21.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_21.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_22.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_22.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_23.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_23.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_24.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_24.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_25.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_25.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_26.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_26.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_27.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_27.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_28.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_28.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_29.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_29.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_30.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_30.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_31.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_31.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_32.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_32.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_33.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_33.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_34.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_34.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_35.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_35.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_36.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_36.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_37.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_37.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_38.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_38.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_39.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_39.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_40.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_40.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_41.jpg)
-<br>
-![](static/readme_images/Breadscanso_ppt_42.jpg)
-<br>
-![](static/readme_images/Breadscanso_ppt_43.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_41.jpg?raw=true)
 <br>
 
 ## 기술스택
