@@ -1,11 +1,11 @@
 ## DA36 FINAL-PROJECT
-![](https://github.com/user-attachments/assets/d694aab2-927f-4bb1-b435-0f06a5ecde99)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/images/bread_im_text.png?raw=true)
 
 
 
 ### • 과정 | PLAYDATA DA-36
 ### • 팀원 | 이예진(팀장), 강한결, 김정아, 조은비, 전민하, 심정석 
-<img width="1268" alt="image" src="https://github.com/user-attachments/assets/48825f94-a7f2-4bd1-88df-a08a210f359a" />
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/member_img.jpg?raw=true)
 
 
 
