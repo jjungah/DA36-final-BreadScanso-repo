@@ -27,11 +27,11 @@
 <br>
 
  ## 프로젝트 소개
-![](static/readme_images/Breadscanso_ppt.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_1.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_1.jpg?raw=true)
 <br>
-![](static/readme_images/Breadscanso_ppt_2.jpg)
+![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt_2.jpg?raw=true)
 <br>
 ![](static/readme_images/Breadscanso_ppt_3.jpg)
 <br>
