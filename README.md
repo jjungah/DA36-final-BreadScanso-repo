@@ -5,7 +5,8 @@
 
 ### • 과정 | PLAYDATA DA-36
 ### • 팀원 | 이예진(팀장), 강한결, 김정아, 조은비, 전민하, 심정석 
-![](https://github.com/user-attachments/assets/ce4723e4-ab85-459a-b195-b219c122992d)
+![image](https://github.com/user-attachments/assets/e33702b3-d657-48f4-9eda-632f59e22f90)
+
 
 
 ### • 프로젝트 기간 | 2025.01.16 ~ 03.14
