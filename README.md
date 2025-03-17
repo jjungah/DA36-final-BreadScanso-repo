@@ -1,5 +1,5 @@
 ## DA36 FINAL-PROJECT
-https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/images/bread_im_text.png?raw=true![image](https://github.com/user-attachments/assets/d694aab2-927f-4bb1-b435-0f06a5ecde99)
+![](https://github.com/user-attachments/assets/d694aab2-927f-4bb1-b435-0f06a5ecde99)
 
 
 
