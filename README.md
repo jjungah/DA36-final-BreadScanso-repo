@@ -29,7 +29,7 @@
 - 매장페이지 
   - 매니저(관리자)만 이용할 수 있으며, '매출정보', '재고관리', '메뉴관리', '회원관리', '시스템설정'을 할 수 있음
   
-<br>
+<br><br>
 
  ## 프로젝트 소개
 ![](https://github.com/pladata-encore/DA36-final-web-BreadScanso-repo/blob/dev/static/readme_images/Breadscanso_ppt.jpg?raw=true)
